@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Run away from the spawning TNT!",
+    "name": "TNT Run",
+    "uuid":"678d0e5b-9471-4c45-856f-f97a55a44110",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 50]
+  },
+  "modules":
+    [
+      {
+        "description": "TNT Run guts",
+          "type": "data",
+          "uuid": "b22806d8-daba-4c4c-ae76-c0b11e61a43b",
+          "version": [1, 0, 0]
+      }
+    ]
+}
